@@ -1,0 +1,17 @@
+C8051F040_defs.h
+*#1
+*#2
+*#3
+*.adb
+*.asm
+*.lst
+*.rel
+*.rst
+*.sym
+*.cdb
+*.hex
+*.lk
+*.map
+*.mem
+*.omf
+*.out
